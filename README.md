@@ -5,7 +5,7 @@ THIS IS FOR PERSONAL USE RIGHT NOW - WORK IN PROGRESS
 install boilerplate of your choice
 
 ```
-curl -O https://raw.githubusercontent.com/martinratinaud/last-version-boilerplate/master/init.sh && chmod 775 init.sh && ./init.sh node react-webpack && rm init.sh
+curl -sSL https://raw.githubusercontent.com/martinratinaud/last-version-boilerplate/master/init.sh | sh -s node react-webpack && rm init.sh
 ```
 
 

@@ -1,3 +1,6 @@
+#!/bin/sh
+set -e
+
 LANGUAGE=$1
 BOILERPLATE=$2
 
